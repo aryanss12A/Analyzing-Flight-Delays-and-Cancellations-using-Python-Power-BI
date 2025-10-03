@@ -27,7 +27,7 @@ It combines Python-based analysis for data wrangling and visualization with an i
 
 -->Validated dataset (~111K rows) for accuracy and consistency.
 
-3. Exploratory Data Analysis (Python)
+2. Exploratory Data Analysis (Python)
    
 -->Time-Series Analysis: Trends in delays and cancellations by day/month.
 
@@ -35,7 +35,7 @@ It combines Python-based analysis for data wrangling and visualization with an i
 
 -->Geospatial Plots: Origin-destination routes with delay intensity.
 
-4. Dashboard Development (Power BI)
+3. Dashboard Development (Power BI)
    
 -->Time-Series Chart (Line): Average delays/cancellations by month/day.
 
@@ -59,12 +59,16 @@ It combines Python-based analysis for data wrangling and visualization with an i
 
 📂 Repository Structure
 ├── flights2022.csv
+
 ├── flights_weather2022.csv
+
 ├── notebooks/
 │   ├── data_cleaning.ipynb
 │   ├── exploratory_analysis.ipynb
 │   └── visualizations.ipynb
+
 ├── flights2020.pbix
+
 ├── README.md
 
 🖼️ Sample Visualizations
